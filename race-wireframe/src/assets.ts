@@ -1,12 +1,12 @@
 /**
- * 레이스 화면 그림 경로 모음. 조원 에셋이 새로 오면 이 파일만 바꾼다.
- * 그림 파일은 레포 루트의 public/images/race/ 에 둔다(배포 주소의 /images/race/).
+ * 첨부 Figma PNG 경로. 실제 파일은 레포 루트 public/images/race/ 한 곳에 둔다.
+ * 전체 목록은 /images/race/manifest.json. 역할 순환은 기본 외형 배정이다.
  */
 export const PENGUINS = [
-  '/images/race/penguin-classic.png',
-  '/images/race/penguin-baby.png',
-  '/images/race/penguin-sporty.png',
-  '/images/race/penguin-developer.png',
+  '/images/race/penguins/penguin-development-level-1.png',
+  '/images/race/penguins/penguin-design-level-1.png',
+  '/images/race/penguins/penguin-documentation-level-1.png',
+  '/images/race/penguins/penguin-planning-level-1.png',
 ];
 
 /** 조 번호(0부터)에 펭귄을 배정한다. 같은 조는 늘 같은 펭귄이다. */

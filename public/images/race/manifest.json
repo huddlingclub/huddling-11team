@@ -1,0 +1,549 @@
+{
+  "source": "https://www.figma.com/design/BdKxgMVSZi3BnovHsktZrx",
+  "assets": [
+    {
+      "file": "public/images/race/scenes/start-gun-sound-effect-korean.png",
+      "source": "scenes/start-gun-sound-effect-korean.png",
+      "bytes": 589685,
+      "size": [
+        1536,
+        1024
+      ],
+      "url": "/images/race/scenes/start-gun-sound-effect-korean.png",
+      "figmaNodeId": "2:1790"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/penguin-level-progression-engineer.png",
+      "source": "scenes/penguin-level-progression-engineer.png",
+      "bytes": 1751790,
+      "size": [
+        2172,
+        724
+      ],
+      "figmaNodeId": "2:1642"
+    },
+    {
+      "file": "public/images/race/scenes/start-label-korean.png",
+      "source": "scenes/start-label-korean.png",
+      "bytes": 688492,
+      "size": [
+        1864,
+        843
+      ],
+      "url": "/images/race/scenes/start-label-korean.png",
+      "figmaNodeId": "2:1791"
+    },
+    {
+      "file": "public/images/race/scenes/rank-card-silver-2.png",
+      "source": "scenes/rank-card-silver-2.png",
+      "bytes": 223935,
+      "size": [
+        677,
+        446
+      ],
+      "url": "/images/race/scenes/rank-card-silver-2.png",
+      "figmaNodeId": "2:1788"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/penguin-level-progression-laptop-pink.png",
+      "source": "scenes/penguin-level-progression-laptop-pink.png",
+      "bytes": 1675847,
+      "size": [
+        2172,
+        724
+      ],
+      "figmaNodeId": "2:1640"
+    },
+    {
+      "file": "public/images/race/scenes/rank-card-bronze-3.png",
+      "source": "scenes/rank-card-bronze-3.png",
+      "bytes": 183825,
+      "size": [
+        677,
+        352
+      ],
+      "url": "/images/race/scenes/rank-card-bronze-3.png",
+      "figmaNodeId": "2:1789"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/penguin-level-progression-coder-blue.png",
+      "source": "scenes/penguin-level-progression-coder-blue.png",
+      "bytes": 1671092,
+      "size": [
+        2172,
+        724
+      ],
+      "figmaNodeId": "2:1639"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/race-track-stadium-background.png",
+      "source": "scenes/race-track-stadium-background.png",
+      "bytes": 1759250,
+      "size": [
+        1672,
+        941
+      ],
+      "figmaNodeId": "2:1751"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/penguin-level-progression-adventurer.png",
+      "source": "scenes/penguin-level-progression-adventurer.png",
+      "bytes": 1785253,
+      "size": [
+        2172,
+        724
+      ],
+      "figmaNodeId": "2:1641"
+    },
+    {
+      "file": "public/images/race/scenes/rank-card-gold-1.png",
+      "source": "scenes/rank-card-gold-1.png",
+      "bytes": 270690,
+      "size": [
+        728,
+        553
+      ],
+      "url": "/images/race/scenes/rank-card-gold-1.png",
+      "figmaNodeId": "2:1787"
+    },
+    {
+      "file": "design/may-july-racing-reference/scenes/stadium-track-side-background.png",
+      "source": "scenes/stadium-track-side-background.png",
+      "bytes": 1499761,
+      "size": [
+        2172,
+        724
+      ],
+      "figmaNodeId": "2:1772"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-development-level-4.png",
+      "source": "penguins/png/penguin-development-level-4.png",
+      "bytes": 19417,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1746",
+      "url": "/images/race/penguins/penguin-development-level-4.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-development-level-5.png",
+      "source": "penguins/png/penguin-development-level-5.png",
+      "bytes": 23573,
+      "size": [
+        234,
+        184
+      ],
+      "figmaNodeId": "2:1644",
+      "url": "/images/race/penguins/penguin-development-level-5.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-development-level-1.png",
+      "source": "penguins/png/penguin-development-level-1.png",
+      "bytes": 13989,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1743",
+      "url": "/images/race/penguins/penguin-development-level-1.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-development-level-2.png",
+      "source": "penguins/png/penguin-development-level-2.png",
+      "bytes": 16994,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1744",
+      "url": "/images/race/penguins/penguin-development-level-2.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-development-level-3.png",
+      "source": "penguins/png/penguin-development-level-3.png",
+      "bytes": 19323,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1745",
+      "url": "/images/race/penguins/penguin-development-level-3.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-design-level-1.png",
+      "source": "penguins/png/penguin-design-level-1.png",
+      "bytes": 15012,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1747",
+      "url": "/images/race/penguins/penguin-design-level-1.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-design-level-3.png",
+      "source": "penguins/png/penguin-design-level-3.png",
+      "bytes": 17850,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1775",
+      "url": "/images/race/penguins/penguin-design-level-3.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-planning-level-2.png",
+      "source": "penguins/png/penguin-planning-level-2.png",
+      "bytes": 6269,
+      "size": [
+        544,
+        384
+      ],
+      "figmaNodeId": "2:1694",
+      "url": "/images/race/penguins/penguin-planning-level-2.png"
+    },
+    {
+      "file": "public/images/race/props/race-smoke-purple-yellow.png",
+      "source": "racing/race-smoke-purple-yellow.png",
+      "bytes": 93080,
+      "size": [
+        348,
+        228
+      ],
+      "url": "/images/race/props/race-smoke-purple-yellow.png",
+      "figmaNodeId": "2:1771"
+    },
+    {
+      "file": "public/images/race/props/checkered-flag.png",
+      "source": "racing/checkered-flag.png",
+      "bytes": 32751,
+      "size": [
+        145,
+        159
+      ],
+      "url": "/images/race/props/checkered-flag.png",
+      "figmaNodeId": "2:1768"
+    },
+    {
+      "file": "public/images/race/props/start-sign-purple.png",
+      "source": "racing/start-sign-purple.png",
+      "bytes": 50364,
+      "size": [
+        312,
+        147
+      ],
+      "url": "/images/race/props/start-sign-purple.png",
+      "figmaNodeId": "2:1760"
+    },
+    {
+      "file": "public/images/race/props/countdown-board-1.png",
+      "source": "racing/countdown-board-1.png",
+      "bytes": 44783,
+      "size": [
+        201,
+        190
+      ],
+      "url": "/images/race/props/countdown-board-1.png",
+      "figmaNodeId": "2:1758"
+    },
+    {
+      "file": "public/images/race/props/race-start-lights.png",
+      "source": "racing/race-start-lights.png",
+      "bytes": 26856,
+      "size": [
+        145,
+        153
+      ],
+      "url": "/images/race/props/race-start-lights.png",
+      "figmaNodeId": "2:1764"
+    },
+    {
+      "file": "public/images/race/props/race-barrier-short.png",
+      "source": "racing/race-barrier-short.png",
+      "bytes": 13896,
+      "size": [
+        137,
+        67
+      ],
+      "url": "/images/race/props/race-barrier-short.png",
+      "figmaNodeId": "2:1770"
+    },
+    {
+      "file": "public/images/race/props/countdown-board-2.png",
+      "source": "racing/countdown-board-2.png",
+      "bytes": 45375,
+      "size": [
+        214,
+        187
+      ],
+      "url": "/images/race/props/countdown-board-2.png",
+      "figmaNodeId": "2:1757"
+    },
+    {
+      "file": "public/images/race/props/start-arch-github-flags.png",
+      "source": "racing/start-arch-github-flags.png",
+      "bytes": 514937,
+      "size": [
+        796,
+        566
+      ],
+      "url": "/images/race/props/start-arch-github-flags.png",
+      "figmaNodeId": "2:1753"
+    },
+    {
+      "file": "public/images/race/props/countdown-board-3.png",
+      "source": "racing/countdown-board-3.png",
+      "bytes": 40909,
+      "size": [
+        207,
+        181
+      ],
+      "url": "/images/race/props/countdown-board-3.png",
+      "figmaNodeId": "2:1756"
+    },
+    {
+      "file": "public/images/race/props/race-barrier-long.png",
+      "source": "racing/race-barrier-long.png",
+      "bytes": 45003,
+      "size": [
+        284,
+        97
+      ],
+      "url": "/images/race/props/race-barrier-long.png",
+      "figmaNodeId": "2:1769"
+    },
+    {
+      "file": "public/images/race/props/countdown-board-go.png",
+      "source": "racing/countdown-board-go.png",
+      "bytes": 51163,
+      "size": [
+        212,
+        187
+      ],
+      "url": "/images/race/props/countdown-board-go.png",
+      "figmaNodeId": "2:1759"
+    },
+    {
+      "file": "public/images/race/props/traffic-cone-orange.png",
+      "source": "racing/traffic-cone-orange.png",
+      "bytes": 13185,
+      "size": [
+        83,
+        105
+      ],
+      "url": "/images/race/props/traffic-cone-orange.png",
+      "figmaNodeId": "2:1766"
+    },
+    {
+      "file": "public/images/race/props/checkered-banner.png",
+      "source": "racing/checkered-banner.png",
+      "bytes": 17849,
+      "size": [
+        195,
+        81
+      ],
+      "url": "/images/race/props/checkered-banner.png",
+      "figmaNodeId": "2:1761"
+    },
+    {
+      "file": "public/images/race/props/github-flag-stand-large.png",
+      "source": "racing/github-flag-stand-large.png",
+      "bytes": 36484,
+      "size": [
+        183,
+        183
+      ],
+      "url": "/images/race/props/github-flag-stand-large.png",
+      "figmaNodeId": "2:1762"
+    },
+    {
+      "file": "public/images/race/props/start-arch-checkered.png",
+      "source": "racing/start-arch-checkered.png",
+      "bytes": 70396,
+      "size": [
+        284,
+        181
+      ],
+      "url": "/images/race/props/start-arch-checkered.png",
+      "figmaNodeId": "2:1754"
+    },
+    {
+      "file": "public/images/race/props/race-announcer-speakers.png",
+      "source": "racing/race-announcer-speakers.png",
+      "bytes": 42779,
+      "size": [
+        167,
+        177
+      ],
+      "url": "/images/race/props/race-announcer-speakers.png",
+      "figmaNodeId": "2:1765"
+    },
+    {
+      "file": "public/images/race/props/start-arch-lights.png",
+      "source": "racing/start-arch-lights.png",
+      "bytes": 97359,
+      "size": [
+        292,
+        232
+      ],
+      "url": "/images/race/props/start-arch-lights.png",
+      "figmaNodeId": "2:1755"
+    },
+    {
+      "file": "public/images/race/props/traffic-cone-purple.png",
+      "source": "racing/traffic-cone-purple.png",
+      "bytes": 10282,
+      "size": [
+        63,
+        89
+      ],
+      "url": "/images/race/props/traffic-cone-purple.png",
+      "figmaNodeId": "2:1767"
+    },
+    {
+      "file": "public/images/race/props/github-flag-stand-small.png",
+      "source": "racing/github-flag-stand-small.png",
+      "bytes": 29732,
+      "size": [
+        139,
+        187
+      ],
+      "url": "/images/race/props/github-flag-stand-small.png",
+      "figmaNodeId": "2:1763"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-documentation-level-2.png",
+      "source": "penguins/png/penguin-documentation-level-2.png",
+      "bytes": 16806,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1749",
+      "url": "/images/race/penguins/penguin-documentation-level-2.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-documentation-level-3.png",
+      "source": "penguins/png/penguin-documentation-level-3.png",
+      "bytes": 18127,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1779",
+      "url": "/images/race/penguins/penguin-documentation-level-3.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-documentation-level-1.png",
+      "source": "penguins/png/penguin-documentation-level-1.png",
+      "bytes": 14134,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1748",
+      "url": "/images/race/penguins/penguin-documentation-level-1.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-design-level-2.png",
+      "source": "penguins/png/penguin-design-level-2.png",
+      "bytes": 16811,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1778",
+      "url": "/images/race/penguins/penguin-design-level-2.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-documentation-level-4.png",
+      "source": "penguins/png/penguin-documentation-level-4.png",
+      "bytes": 19397,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1774",
+      "url": "/images/race/penguins/penguin-documentation-level-4.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-documentation-level-5.png",
+      "source": "penguins/png/penguin-documentation-level-5.png",
+      "bytes": 16139,
+      "size": [
+        234,
+        184
+      ],
+      "figmaNodeId": "2:1773",
+      "url": "/images/race/penguins/penguin-documentation-level-5.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-design-level-4.png",
+      "source": "penguins/png/penguin-design-level-4.png",
+      "bytes": 20501,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1776",
+      "url": "/images/race/penguins/penguin-design-level-4.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-design-level-5.png",
+      "source": "penguins/png/penguin-design-level-5.png",
+      "bytes": 23394,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1777",
+      "url": "/images/race/penguins/penguin-design-level-5.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-planning-level-4.png",
+      "source": "penguins/png/penguin-planning-level-4.png",
+      "bytes": 22678,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1782",
+      "url": "/images/race/penguins/penguin-planning-level-4.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-planning-level-5.png",
+      "source": "penguins/png/penguin-planning-level-5.png",
+      "bytes": 26457,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1750",
+      "url": "/images/race/penguins/penguin-planning-level-5.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-planning-level-3.png",
+      "source": "penguins/png/penguin-planning-level-3.png",
+      "bytes": 21656,
+      "size": [
+        238,
+        166
+      ],
+      "figmaNodeId": "2:1781",
+      "url": "/images/race/penguins/penguin-planning-level-3.png"
+    },
+    {
+      "file": "public/images/race/penguins/penguin-planning-level-1.png",
+      "source": "penguins/png/penguin-planning-level-1.png",
+      "bytes": 14617,
+      "size": [
+        235,
+        166
+      ],
+      "figmaNodeId": "2:1780",
+      "url": "/images/race/penguins/penguin-planning-level-1.png"
+    }
+  ]
+}
